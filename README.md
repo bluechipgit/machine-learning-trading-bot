@@ -44,7 +44,7 @@ Upon running the notebook, you will see several graphics assisting in your analy
 
 ## Usage
 
-To use the this notebook, open the .ipynb file in a Jupyter Lab environemnt (or other IDE with Jupyter notebook extensions):
+To use the this notebook, open the .ipynb file in a Jupyter Lab environemnt (or other IDE with Jupyter notebook extensions)
 
 ---
 
